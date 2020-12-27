@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tgara/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/tgara/static/js/main.8ff09702.chunk.js",
+    "main.js.map": "/tgara/static/js/main.8ff09702.chunk.js.map",
+    "runtime-main.js": "/tgara/static/js/runtime-main.c6d0abd1.js",
+    "runtime-main.js.map": "/tgara/static/js/runtime-main.c6d0abd1.js.map",
+    "static/js/2.0e8b63c2.chunk.js": "/tgara/static/js/2.0e8b63c2.chunk.js",
+    "static/js/2.0e8b63c2.chunk.js.map": "/tgara/static/js/2.0e8b63c2.chunk.js.map",
+    "index.html": "/tgara/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/tgara/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0e8b63c2.chunk.js.LICENSE.txt": "/tgara/static/js/2.0e8b63c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6d0abd1.js",
+    "static/js/2.0e8b63c2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8ff09702.chunk.js"
+  ]
+}
